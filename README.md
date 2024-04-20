@@ -1,4 +1,4 @@
-This is a presentation I gave at Minnebar 18 on Bazzite.
+This is the presentation I gave at Minnebar 18 on Bazzite.
 
 **Direct Download Links**
 
